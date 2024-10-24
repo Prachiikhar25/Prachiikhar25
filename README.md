@@ -1,15 +1,20 @@
 <!-- Profile Banner -->
-<p align="center">
-  <img src="file:///D:/0113286401.jpeg" alt="MasterHead">
-</p>
+<!-- Centered Container -->
+<div align="center">
+  
+  <!-- Highlighted Heading -->
+  <h1 style="font-family: 'Arial', sans-serif; font-size: 2.5em; color: #4CAF50; background-color: #f0f0f0; padding: 10px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);">
+    Hi 👋, I'm Prachi Ikhar
+  </h1>
+ <img src="file:///D:/cimg.jpg" alt="Link">
 
-<h1 align="center">Hi 👋, I'm Prachi Ikhar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+  <!-- Subtitle -->
+  <h3 style="font-family: 'Arial', sans-serif; color: #333;">
+    A passionate frontend developer from India.
+  </h3>
+  
+</div>
 
-<!-- Display Coding Gif -->
-<p align="center">
-  <img src="file:///D:/coding-girl.gif" alt="Coding Gif" width="400">
-</p>
 
 <!-- Profile Views -->
 <p align="left">
