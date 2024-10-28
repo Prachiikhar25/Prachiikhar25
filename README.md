@@ -79,10 +79,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prachiikhar25&show_icons=true&locale=en" alt="prachiikhar25" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prachiikhar25&" alt="prachiikhar25" /></p>
-<a href="https://holopin.io/@prachiikhar25">
-    <img src="https://holopin.me/prachiikhar25" alt="An image of @prachiikhar25's Holopin badges" width="800" height="300">
-</a>
+
+
 
 
 ## GSSOC(24) Badges 🪶
@@ -97,3 +95,5 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" /></a>
 </div>
+
+<div align="center"> <img src="https://holopin.me/prachiikhar25" alt="hacktoberfest badges"> </div>
