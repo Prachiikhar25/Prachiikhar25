@@ -40,6 +40,8 @@
 <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="Leetcode Batch 1">
 <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="Leetcode Batch 2">
 <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-09.gif" alt="Leetcode Batch 3">
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-10.gif" alt="Leetcode Batch 4">
+
 <h3>CodeChef Batch</h3>
 <img src="https://cdn.codechef.com/images/badges/streak/gold.svg" alt="CodeChefBadge">
 
