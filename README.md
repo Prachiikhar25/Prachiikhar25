@@ -40,6 +40,10 @@
 <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="Leetcode Batch 1">
 <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="Leetcode Batch 2">
 <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-09.gif" alt="Leetcode Batch 3">
+<img src="https://github.com/user-attachments/assets/003d0086-b98d-4477-8038-938f5a0432d7" alt="CodeChefBadge">
+
+
+
 
 ### Connect with Me
 <p align="left">
