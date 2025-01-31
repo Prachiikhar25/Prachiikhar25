@@ -37,10 +37,13 @@
 ---
 
 <h3>Leetcode Batches</h3>
-<img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="Leetcode Batch 1">
-<img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="Leetcode Batch 2">
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-09.gif" alt="Leetcode Batch 3">
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-10.gif" alt="Leetcode Batch 4">
+<img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="Leetcode Batch 1" width="100">
+<img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="Leetcode Batch 2" width="100">
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-09.gif" alt="Leetcode Batch 3" width="100">
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-10.gif" alt="Leetcode Batch 4" width="100">
+<img src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif" alt="Leetcode Batch 4" width="100">
+<img src="https://assets.leetcode.com/static_assets/marketing/202501.gif" alt="Leetcode Batch 5" width="100">
+
 
 <h3>CodeChef Batch</h3>
 <img src="https://cdn.codechef.com/images/badges/streak/gold.svg" alt="CodeChefBadge">
