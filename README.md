@@ -153,7 +153,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=prachiikhar25&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff69b4&icon_color=ff69b4&text_color=c9d1d9" alt="GitHub Stats" />
 </td>
 <td width="50%" align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=prachiikhar25&theme=radical&hide_border=true&background=0d1117&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=prachiikhar25&theme=radical&hide_border=true&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4" alt="GitHub Streak" />
 </td>
 </tr>
 </table>
